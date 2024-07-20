@@ -1,0 +1,3 @@
+[submodule "react-terminal-website"]
+	path = react-terminal-website
+	url = https://github.com/ntanwir10/react-terminal-website
